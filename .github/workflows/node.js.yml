@@ -15,4 +15,4 @@ jobs:
           project: .
           browser: chrome
           start: npm run dev
-          wait-on: "https://example.cypress.io"
+          wait-on: "http://localhost:5173"
